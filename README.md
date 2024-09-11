@@ -11,7 +11,7 @@
 
 ## About the Project
 
-This is a modern, responsive web application for project management and calendar events. It's designed to help teams organize tasks, track progress, and collaborate effectively while managing their schedules.
+This is a responsive web application for project management and calendar events. It's designed to help teams organize tasks, track progress, and collaborate effectively while managing their schedules.
 
 ## Features
 
